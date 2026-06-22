@@ -172,7 +172,6 @@ me.say_hi()
 | 🔐 **PayGuard** | Audit de sécurité d'API (cible *crAPI*) + détection d'anomalies par Isolation Forest, conformité PCI-DSS / DSP2. |
 | 📡 **StackWatch** | Micro-SaaS de veille CVE personnalisée — FastAPI · Next.js · PostgreSQL · bot Telegram. |
 | 🧪 **OWASP Juice Shop Pentest** | Rapport pro documentant 7 vulnérabilités exploitées en environnement contrôlé. |
-| 🎮 **ROOT** | Serious game narratif (RPG) qui enseigne cyber, IA & business avec progression par maîtrise. |
 
 <br/>
 
