@@ -178,16 +178,9 @@ me.say_hi()
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ## `~/contribution-snake`
 
-<!--
-  🐍 SERPENT — décommente ce bloc une fois que tu as :
-     1. ajouté .github/workflows/snake.yml
-     2. lancé le workflow (onglet Actions -> Generate Snake Animation -> Run)
-     La branche "output" doit exister, sinon l'image reste cassée.
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Mohamedtaiwo/Mohamedtaiwo/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
--->
 
 <br/>
 
