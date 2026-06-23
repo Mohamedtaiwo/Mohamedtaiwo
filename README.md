@@ -17,7 +17,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050D,100:6355D8&height=200&section=header&text=Fouad&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20•%20AppSec%20•%20AI%20Security&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050D,100:6355D8&height=200&section=header&text=TAIWO&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20•%20AppSec%20•%20AI%20Security&descAlignY=58&descSize=18&descAlign=50" width="100%"/>
 
 <a href="https://github.com/Mohamedtaiwo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=6355D8&center=true&vCenter=true&width=620&lines=Cybersecurity+Student;API+%26+Application+Security;AI-Powered+Anomaly+Detection;DevSecOps+%26+Threat+Modeling;Building+accessible+security+for+SMEs" alt="Typing SVG" />
