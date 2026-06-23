@@ -45,10 +45,10 @@
 ```python
 class SecurityEngineer:
     def __init__(self):
-        self.name      = "Fouad"
+        self.name      = "Mohamed Fouad TAIWO"
         self.role      = "Cybersecurity Student  ->  Security Engineer"
         self.location  = "Paris, France"
-        self.focus     = ["AppSec", "API Security", "AI x Security", "DevSecOps"]
+        self.focus     = ["AppSec", "API Security", "AI x Security", "DevSecOps", "SOC"]
         self.learning  = ["Threat Modeling (STRIDE)", "GRC", "CI/CD Security"]
         self.mission   = "Make cybersecurity accessible for SMEs & individuals"
 
